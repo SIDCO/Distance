@@ -1,4 +1,15 @@
-
+/**
+ ** FileName : 	Main.js
+ ** Author	:	Siddharth Bagai
+ ** Description	:	Implementa all algorithms like Stress Major, Label repulsion
+ **					Also provides symmetrix matrix implementation
+ ** Date		:	06/12/2014
+ **/
+/**
+ ** Class Name : 	window
+ ** Description	:	Helper edge container
+ **	Parameters :	weight, line(THREE.vector)
+ **/
 
 window.onload = function() {
 
